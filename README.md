@@ -1,6 +1,6 @@
 # tanzo
 
-A minimal web framewrok and code generator based on express.
+A minimal web framewrok and code generator based on express. [NPM link](https://npmjs.com/package/tanzo)
 
 ## Installation
 
